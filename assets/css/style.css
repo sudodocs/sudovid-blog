@@ -124,11 +124,18 @@ h1, h2, h3, h4 {
     padding-left: 20px;
     margin: 40px 0;
 }
+/* --- Break the Homepage out for the Grid Layout --- */
+.home {
+    max-width: 1200px; /* Expands the page width so cards can sit side-by-side */
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
 /* --- Homepage Grid & Cards --- */
 .post-grid {
-    display: grid;
-    /* Automatically creates responsive columns (min 300px wide) */
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    display: grid !important; /* Force browser to acknowledge the grid layout */
+    /* Creates as many columns as fit, minimum 320px wide each */
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
     gap: 30px;
     margin-top: 40px;
 }
@@ -138,32 +145,38 @@ h1, h2, h3, h4 {
     flex-direction: column;
     background-color: #ffffff;
     border: 1px solid var(--border-color);
-    border-radius: 8px; /* Softly rounded corners */
+    border-radius: 8px;
     overflow: hidden;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
-/* Adds a subtle lift effect when you hover over a card */
 .post-card:hover {
     transform: translateY(-4px);
     box-shadow: 0 12px 24px rgba(0, 0, 0, 0.06);
 }
 
+/* --- Strict Equal-Sized Images --- */
 .post-card-image-link {
     display: block;
-    line-height: 0;
+    width: 100%;
+    position: relative;
+    /* Forces a perfect 16:9 cinematic widescreen crop regardless of original image size */
+    aspect-ratio: 16 / 9; 
+    overflow: hidden;
+    background-color: #f5f5f5;
 }
 
 .post-card-image {
     width: 100%;
-    height: 200px;
-    /* object-fit ensures all images are perfectly cropped to the same height */
-    object-fit: cover; 
-    border-bottom: 1px solid var(--border-color);
-    margin: 0 !important; /* Overrides the previous body image margin */
-    border-radius: 0; /* Overrides the previous body image radius */
+    height: 100%;
+    /* object-fit: cover ensures the image fills the 16:9 box without stretching or distorting */
+    object-fit: cover !important; 
+    display: block;
+    margin: 0 !important; 
+    border-radius: 0 !important;
 }
 
+/* --- Text Area Layout --- */
 .post-card-content {
     padding: 24px;
     display: flex;
@@ -173,12 +186,12 @@ h1, h2, h3, h4 {
 
 .post-card-content h3 {
     margin: 10px 0 15px 0;
-    font-size: 24px;
+    font-size: 22px;
     line-height: 1.3;
 }
 
 .post-card-content .post-excerpt {
-    font-size: 17px;
+    font-size: 16px;
     color: var(--meta-color);
     line-height: 1.5;
     margin: 0;
