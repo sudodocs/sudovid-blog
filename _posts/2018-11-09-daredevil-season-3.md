@@ -17,7 +17,7 @@ tags:
   - "rahul-nadeem"
   - "season-3"
   - "steve-lightfoot"
-coverImage: "/images/daredevil-season-3.jpg"
+coverImage: "/sudovid-blog/images/daredevil-season-3.jpg"
 ---
 
 _Erik Oleson’s_ adapted screenplay for the third season is in only bits and pieces similar to _Frank Miller’s_ __**Born Again**__. _Erik_ cleverly took all the events from the comic and rewrote in the screenplay. The season 3 is much more reformed and coherent than _**Daredevil's**_ season 1 and 2.

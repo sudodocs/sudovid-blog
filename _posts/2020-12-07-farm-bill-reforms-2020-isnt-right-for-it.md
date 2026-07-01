@@ -13,7 +13,7 @@ tags:
   - "msp"
   - "niti-ayog"
   - "punjab"
-coverImage: "/images/farmbill.jpg"
+coverImage: "/sudovid-blog/images/farmbill.jpg"
 ---
 
 In India, agricultural markets are controlled and managed by the state _**Agricultural Produce Market Committee**_ (APMC) laws. The beneficiaries such as traders and commission agents buy the farm produce directly from the farmers. The farmers are forced to sell their produce at the _**minimum support price**_ (MSP) to the beneficiaries. This imbalance has resulted in the exploitation of both farmers and consumers. You might have heard about the sudden increase in the food prices in India. This is largely when traders become hoarders and start to control the retail prices. In _**[2017](http://agricoop.gov.in/sites/default/files/APLM_ACT_2017_0.pdf)\-[18](http://agricoop.nic.in/sites/default/files/Model%20Contract%20Farming%20Act%202018.pdf)**_, the central government proposed to change this and allowed states to adopt free or direct trade between the retailers and the farmers under a contract or agreement. Only a few states namely Karnataka, West Bengal, and Maharashtra adopted it and others continued to enjoy exploiting farmers through minimum support price (MSP) in _**Kisan Mandis**_. The recent _**agricultural reform bill 2020**_ or _**farm bill 2020**_ is focused on removing this discrepancy allowing farmers to do free trade with an individual or corporation.

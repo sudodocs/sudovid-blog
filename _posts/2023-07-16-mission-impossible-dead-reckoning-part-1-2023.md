@@ -11,7 +11,7 @@ tags:
   - "missionimpossible"
   - "movie"
   - "tomcruise"
-coverImage: "/images/mi7.jpg"
+coverImage: "/sudovid-blog/images/mi7.jpg"
 ---
 
 **_Mission Impossible_** has been the longest standing franchise that survived all ups and downs. In the midst of Hollywood strike, **_Dead Reckoning_** has still managed to survive big screens and made good profit. Now, how much lobbying played a role in its success, is something out of scope for us to discuss.

@@ -11,7 +11,7 @@ tags:
   - "linux"
   - "wordpress"
   - "wp-engine"
-coverImage: "/images/WP-Engine-1.png"
+coverImage: "/sudovid-blog/images/WP-Engine-1.png"
 ---
 
 **_WP Engine_** and **_Automattic_** are at war. If you read this [_**article**_](https://wordpress.org/news/2024/09/wp-engine/), you would realize how seriously **_Automattic_** at this point takes matters at hand. Their latest social media war is taking some serious turns in terms of lawsuits. Only time will tell, who’ll have the last laugh? Before we dig into this matter, let’s first understand what these companies basically offer to the customers.

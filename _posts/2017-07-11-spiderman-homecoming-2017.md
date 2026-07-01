@@ -26,7 +26,7 @@ tags:
   - "tom-holland"
   - "tony-stark"
   - "zendaya"
-coverImage: "/images/spider-man-homecoming-holland-bank.jpg"
+coverImage: "/sudovid-blog/images/spider-man-homecoming-holland-bank.jpg"
 ---
 
 _Aunt May_ finally knows the secret about his nephew, _Peter Parker_. _Jon Watts_ subtly put the scene where _Aunt May_ (_May Parker_ played by _Marisa Tomei_) sees her nephew dressed up as **Spider-Man**. _Sony Pictures_ and _Marvel Studios_ finally get the act right. Homecoming treat is what viewers always wanted to see. The life of _Peter Parker_ (played by _Tom Holland_) as a high school kid and the wit and humor around is the charm of this his character.

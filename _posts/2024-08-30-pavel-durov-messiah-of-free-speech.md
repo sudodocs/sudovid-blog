@@ -23,7 +23,7 @@ tags:
   - "ukraine"
   - "vkontakte-com"
   - "whatsapp"
-coverImage: "/images/durov-brothers.png"
+coverImage: "/sudovid-blog/images/durov-brothers.png"
 ---
 
 In a free world, you can idolize anyone for security but you can’t escape the reality that internet security is a misnomer. Ever since the _**PRISM**_ project was launched, conglomerates have been forced to comply with the governments across the world by sharing their user data. The Russian version of _**Facebook**_ and _**WhatsApp**_ applications doesn’t entail any other secret story. When _Pavel Durov_ launched his initial project _**VKontakte.com**_, he was constantly in beef with the Kremlin. His second project _**Telegram**_ is now facing the same heat. To understand what actually happened, we need to put together some pieces in the right order.

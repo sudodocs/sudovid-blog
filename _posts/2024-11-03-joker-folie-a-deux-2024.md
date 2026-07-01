@@ -16,7 +16,7 @@ tags:
   - "ladygaga"
   - "thedarkknight"
   - "toddphillips"
-coverImage: "/images/Joker-Thumbnail.png"
+coverImage: "/sudovid-blog/images/Joker-Thumbnail.png"
 ---
 
 **_Joker: Folie a Deux_** is not a regular DC fan movie. _Todd Philips_ didn’t want to destroy what _Christopher Nolan_ successfully portrayed on screen in **_The Dark Knight_**. The character of **Joker** played by _Heath Ledger_ was iconic and despite _Heath Ledger’_s sad and early demise, the fans continue to love what he did to the character. _Todd Philips' take_ on **Joker** is set as a prequel to _Christopher Nolan’s_ character. **_Joker: Folie a Deux_** then becomes a no brainer but to set things right for **_The Dark Knight._** 

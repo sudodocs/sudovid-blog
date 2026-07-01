@@ -32,7 +32,7 @@ tags:
   - "ukraine"
   - "woke"
   - "wokeism"
-coverImage: "/images/The-Agency-WordPress.png"
+coverImage: "/sudovid-blog/images/The-Agency-WordPress.png"
 ---
 
 The latest Paramount plus hit spy thriller, [**_The Agency_**](https://www.imdb.com/title/tt26656917/), has received a lot of accolades owing to its close knit plot and script. The acting done by _Michael Fassbender_ has been a treat to watch. The series is based on the plot of another hit French series [**_The Bureau_**](https://en.wikipedia.org/wiki/The_Bureau_\(TV_series\)). The original plot of intelligence operative _Martian_ coming back from a mission in Africa has its charm but the better plot of placing an agent in _Iran_ is something that is left for the second season to explore in detail. It's a good move as the original series had it in the later seasons too.

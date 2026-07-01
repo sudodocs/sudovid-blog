@@ -17,7 +17,7 @@ tags:
   - "samsara"
   - "vedic-literature"
   - "wormhole"
-coverImage: "/images/dark-season-1.png"
+coverImage: "/sudovid-blog/images/dark-season-1.png"
 ---
 
 Learning about _Indian Vedic_ literature from a German television series sounds absurd. The western civilization adopted many _Hindu_ ideas and philosophy in their own way, _**Nietzsche’s Eternal Recurrence**_ is one such example. The philosophy was adopted from a concept called _Kaalchakra_ (time-cycle) and _Samsara_ (Sansaar or Universe). In the philosophy of _Samsara_, world exists in the form of cyclic turns (or Karmic cycle) which lasts forever until _moksha_ (soul’s freedom). In Hindu civilization, we consider a successful life of a being after gaining moksha and until then the life is trapped in a circle of time (many rebirths).

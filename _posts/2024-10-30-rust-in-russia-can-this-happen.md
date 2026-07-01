@@ -21,7 +21,7 @@ tags:
   - "usa"
   - "uselections2024"
   - "ussanctions"
-coverImage: "/images/RUST-IN-RUSSIA-Kernel-PANIC.png"
+coverImage: "/sudovid-blog/images/RUST-IN-RUSSIA-Kernel-PANIC.png"
 ---
 
 There’s a lot of noise in the developer community given the recent developments over US sanctions. The way it’s going I feel that the divide has already been created and we are there only to choose sides. The far east is keen on hard forking the Linux kernel. Though Russian owned Astra Linux is in use in Tianwan Nuclear Plant in China, I’m not sure about the current state of the other Russian owned Linux variant **_ROSA_** and how people will put their trust in this whole new attempt of forking Linux kernel especially in the western hemisphere.

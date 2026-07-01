@@ -12,7 +12,7 @@ tags:
   - "supreme-court"
   - "x-chromosome"
   - "xq28"
-coverImage: "/images/judreform.webp"
+coverImage: "/sudovid-blog/images/judreform.webp"
 ---
 
 Talking about sexuality is a taboo in India and this could either put you in a bad position or worse but never the best. May be, the precise reason why we have overpopulation problem. There are two issues to look at in Indian context. Recently, apex court of India has decriminalised _**section 377**_ and _**section 497**_ of **Indian Penal** **Code**. Both verdicts received mixed views.

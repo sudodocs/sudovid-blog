@@ -17,7 +17,7 @@ tags:
   - "spike-protein"
   - "un"
   - "who"
-coverImage: "/images/covid2.webp"
+coverImage: "/sudovid-blog/images/covid2.webp"
 ---
 
 Being politically unaware is the most apt thing at this point in time. You can either be reprimanded by your own government or mocked by the scientific community if you dare to have an opinion. The recent _**SARS-CoV-2**_ outbreak has compelled countries to close borders and stay under several iterations of lockdowns. If the effectiveness of the lockdown is to be believed, then it merely delays the outbreak but never stops. The leading epidemiologists would confirm the effectiveness of lockdowns and restrictions. As soon as you reopen, the viral transmission rate will bounce back and we will witness a wave. The only serious implementation of the lockdown could be if you could immunize the entire population and then reopen. So, was the move to remain in isolation scientific or political? The answer is both partly true.

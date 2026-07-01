@@ -15,7 +15,7 @@ tags:
   - "sonypictures"
   - "spiderman"
   - "tobeymaguire"
-coverImage: "/images/acrossthespiderverse-scaled.jpg"
+coverImage: "/sudovid-blog/images/acrossthespiderverse-scaled.jpg"
 ---
 
 It’s been long overdue for me to watch _**Spider-Man: Across the Spider Verse**_. Though the Spider verse movies are not two dimensional, it surely gives a feel of that. It sort of brought back my childhood memories of _**Spider-Man: The Animated Series**_ from 1994 that used to run on the television network, **Fox Kids**. Already, _**Spider-Man: Into the Spider Verse**_ was a huge success for **Sony** and with the latest storyline, it just validates that **Sony** animation can still work as a savior for **Marvel** when _**Disney’s**_ take on **Marvel** universe disappoints.

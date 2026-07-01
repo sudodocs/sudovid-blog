@@ -19,7 +19,7 @@ tags:
   - "string-theory"
   - "the-indian-clerk"
   - "the-man-who-knew-infinity"
-coverImage: "/images/images-duckduckgo-com.jpeg"
+coverImage: "/sudovid-blog/images/images-duckduckgo-com.jpeg"
 ---
 
 What good a friendly relation such as one between a gnostic theist and a gnostic atheist would yield? Robert Kanigel had written about it in 1991. The movie explores the same idea and is an adaption of Mr. Kanigel's writing. The story is about the mathematics genius from India, Srinivasa Ramanujan, and his friendly collaborations with the another great mathematician, G. H. Hardy. S. Ramanujan with no academic credential or formal training in mathematics became one of the notable contributors in the world of pure mathematics.

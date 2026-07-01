@@ -21,7 +21,7 @@ tags:
   - "twitter"
   - "wordpress"
   - "x"
-coverImage: "/images/Bluesky-Vs-X.png"
+coverImage: "/sudovid-blog/images/Bluesky-Vs-X.png"
 ---
 
 When _Elon Musk_ acquired [Twitter](https://en.wikipedia.org/wiki/Twitter) and turned it into **_X,_** people started to feel the heat to see more open voices coming to light on the platform. Some didn’t like the idea to give free speech to everyone. You see the world is not that entirely democratic in nature and so how can a social media platform be allowed to practise it. There are indeed social norms that need to be honored and kept in mind while creating or posting any content.

@@ -16,7 +16,7 @@ tags:
   - "volodymyr-zelensky"
   - "war-economy"
   - "world-war"
-coverImage: "/images/guns.jpeg"
+coverImage: "/sudovid-blog/images/guns.jpeg"
 ---
 
 We live in times when posing with guns on social media gives you an illusion of winning the war. It's sympathetic to an extent but insane in reality. While the entire world is busy posturing to do the `_**right thing**_`, the repercussions would be inconvenient. The economics of war is complicated and is often ignored. The [_**military spending**_](https://longreads.tni.org/stateofpower/no-business-without-enemies-war-and-the-arms-trade#section3) was the highest in 2019 since Cold War and so the policy makers are forced to justify the fund allocation through wars. **57%** of the world's ammunition comes from the **US**, **22%** from the **western Europe**, **9.5%** from the **Russian Federation**, and the rest from **Japan**, **India**, **China**, and **South Korea**. So, when you see an idiot posing with a gun on a social media platform, would you still like it?

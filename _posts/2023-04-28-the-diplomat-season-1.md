@@ -13,7 +13,7 @@ tags:
   - "nord-stream"
   - "russia"
   - "ukraine"
-coverImage: "/images/thediplomat.jpg"
+coverImage: "/sudovid-blog/images/thediplomat.jpg"
 ---
 
 Ever since the **Nord Stream** pipeline burst incident happened in 2022, the world has seen different viewpoints of whodunnit. Russia claims that **MI6** was involved in this but who listens a Russian anyways. The CIA has been involved in many world events ranging from assassinations to toppling leadership of undesirable (for the US) foreign governments. After the **Nord Stream** sabotage (or say in the entire Russia-Ukraine conflict), the American oil was floated in the European markets and worldwide along with the weapons. It’s not very difficult to guess who benefitted. See the whodunnit clause is not always about what we will know but more about how much we will be allowed to know in the public domain. _**The Diplomat**_ attempts to portray the backroom discussions on a similar premise.

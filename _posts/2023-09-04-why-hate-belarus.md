@@ -14,7 +14,7 @@ tags:
   - "sanctions"
   - "ukraine"
   - "us"
-coverImage: "/images/lukashenko.jpg"
+coverImage: "/sudovid-blog/images/lukashenko.jpg"
 ---
 
 Ever since the _**Russia-Ukraine**_ conflict started, the west has tried different tactics to sabotage The Russian Federation. While I have no complaints regarding that, I certainly have complaints regarding the boycott of Belarusian athletes, financial sanctions on _**Belarus**_, and growing hatred to push **Russia** and **Belarus** under the same umbrella. On a personal level, I adore _**Belarus**_ as it is one of the cleanest countries in the world. In fact, the capital city of **Minsk** was ranked number three along with Tokyo and Singapore till 2018-2019. But, you won’t see these stats now in any media outlet.

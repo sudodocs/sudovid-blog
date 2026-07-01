@@ -20,7 +20,7 @@ tags:
   - "play-store"
   - "software"
   - "war"
-coverImage: "/images/MONOPOLY.png"
+coverImage: "/sudovid-blog/images/MONOPOLY.png"
 ---
 
 You know security is an overwhelming term and while I had the luxury to work for security firms, I find it infuriating at times. There are just too many layers to add and protect. It’s a real thing to say that only a properly disconnected system can be made secure. The rest depends on the handling. But, when I see firms advocating for more and more layers of security, it just makes me nauseated. One way to do it is to stop installation of the programs at its core. Meaning that the platform itself can’t be modified by anything that the platform doesn’t comply with. It’s sort of good to have things in theory but the practicality of implementing it makes the life of an average technical user a living hell.

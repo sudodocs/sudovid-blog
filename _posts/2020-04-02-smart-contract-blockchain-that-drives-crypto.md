@@ -8,7 +8,7 @@ tags:
   - "cryptocurrency"
   - "smart-contract"
   - "zk-snark"
-coverImage: "/images/blockchain.png"
+coverImage: "/sudovid-blog/images/blockchain.png"
 ---
 
 To understand a smart contract, let us first dive into the basics of a contract. A legal contract must suffice some criteria such as of being offered, mutually consented, legal, signed, and must be accepted by the other party. A smart contract is a digital version of it and is smart not only because it is digital but for its underlying technology, _blockchain_.

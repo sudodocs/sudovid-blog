@@ -9,7 +9,7 @@ tags:
   - "m-s-dhoni"
   - "neeraj-pandey"
   - "sushant-singh-rajput"
-coverImage: "/images/490818-439882-sushant-dhoni.jpg"
+coverImage: "/sudovid-blog/images/490818-439882-sushant-dhoni.jpg"
 ---
 
 India is a nation of over 1.2 billion people. This emperical size has a lot of dreams and aspirations. Only handful of them succeed and make it to Bollywood and Cricket. Of course, these two are the most popular career choices of the people when academia gives them the nightmares. M. S. Dhoni is one name which is popular not only in Cricket but in Bollywood as well. That itself speaks a lot about the calibre and class of a character who is the second most important person in India after Sachin Tendulkar. Therefore, a biopic on him should set some bar.

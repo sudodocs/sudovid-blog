@@ -17,7 +17,7 @@ tags:
   - "thedayofthejackal"
   - "thriller"
   - "ursulacorbero"
-coverImage: "/images/the-day-of-the-jackal-105.jpg"
+coverImage: "/sudovid-blog/images/the-day-of-the-jackal-105.jpg"
 ---
 
 Of all the spy-thrillers I have watched, I seem to have zeroed on my favorite, _The Spy_ starring  _Sacha Baron Cohen_ playing the character of Mossad’s top spy _Eli Cohen_. I never thought I would have to realign my thriller beliefs and include an assassin thriller into the world of spies. The British adaptation of the novel **_The Day of the Jackal_** by _Frederick Forsyth_ surpasses my expectations at each and every aspect of the film making. The constant movement of the central character beyond borders while keeping up with his get ups and charades makes this assassin thriller a perfect choice for a spy thriller as well.

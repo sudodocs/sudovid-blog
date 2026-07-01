@@ -14,7 +14,7 @@ tags:
   - "russellcrowe"
   - "thesignal"
   - "williameubank"
-coverImage: "/images/russel-crowe.png"
+coverImage: "/sudovid-blog/images/russel-crowe.png"
 ---
 
 The year 2024 started with a series of Hollywood flops. At least, I had hopes from the movie, _**The Bricklayer**_ starring _Aaron Eckhart_. But, when I sat down to watch it, I was disappointed that a decent storyline can be trashed with a poor script, acting, and direction. Frankly, I wasn’t expecting much from the movie _**Land of Bad**_ aside from _Russell Crowe_. Surprisingly, this movie held its bar high throughout the story with good acting, script, and direction. It’s a typical _William Eubank_ movie where the script doesn’t disappoint and actors are allowed to do their job.

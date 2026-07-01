@@ -17,7 +17,7 @@ tags:
   - "omegle"
   - "prostitution"
   - "tinder"
-coverImage: "/images/online-dating-1.png"
+coverImage: "/sudovid-blog/images/online-dating-1.png"
 ---
 
 Do you know that we, humans, have a longer survival rate if we develop a true emotional and longer relationship? There's [_**research available**_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7452000/) that supports this fact. It’s been revealed that in order to increase your lifespan, your relationships would help you better than your genes. This very fact is the basis for several mainstream dating applications and matchmaking websites. Their business model can be debatable as the algorithms used to match you with one another is the same used in a **Chess** game. The [_**ELO algorithm**_](https://www.wired.com/story/racial-bias-dating-apps/) not only reduces your chances to find a match but also decreases your probability in due course if you get rejected by a few. But, this is limited to the mainstream dating and matchmaking applications such as **_Tinder_**, _**Hinge**_, _**Bumble**_, and so on. This you can still bypass using a premium account. See making money out of a social norm is nothing new. Most businesses do that and fall into the category of a service provider. But, it becomes dangerous when the means to an end can’t be justified.

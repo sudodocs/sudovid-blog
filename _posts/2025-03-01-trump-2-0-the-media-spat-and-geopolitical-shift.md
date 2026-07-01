@@ -15,7 +15,7 @@ tags:
   - "trump"
   - "ukraine"
   - "usa"
-coverImage: "/images/Trump-2.0-1.png"
+coverImage: "/sudovid-blog/images/Trump-2.0-1.png"
 ---
 
 I personally don’t endorse Donald Trump for his presidency as neither I’m in position to nor do I care. And, certainly don’t care who the EU bosses will keep on endorsing. Pandora Papers already revealed much in the public domain about the corruption of Zelensky and much before that we were too aware of the corrupt administration of Ukraine. But, if you keep all the facts aside and start preaching lessons of morality all over social media, it would eventually hurt you in the long run. Now, whether you like it or not, the idea of vilifying Russia and spreading fear across Europe to get in line with the United States seemed lucrative for sometime. The Biden administration too pushed for this older and long-existing narrative of Russophobia from the Cold War era and it worked quite well for them over the last couple of years. But, the recent developments in media to see a divided west might confuse many. So, let us break it down for better understanding.

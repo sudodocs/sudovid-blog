@@ -21,7 +21,7 @@ tags:
   - "white-hat"
   - "wikileaks"
   - "world-wide-web"
-coverImage: "/images/ldozk39.png"
+coverImage: "/sudovid-blog/images/ldozk39.png"
 ---
 
 Having watched _Mad Max: Fury Road (2015)_ and _Underground: The Julian Assange Story_ _(2012)_ today, I decided to write about something more meaningful. Although _Mad Max: Fury Road_ has received overwhelming reviews, it's still totally avoidable. The other movie indeed needs more insight and discussion. Julian Assange and his life has been a source of concern for a decade now. Ever since he launched _Wikileaks_ in 2006, he was under scrutiny. But the world came to know about him only in 2010 when he published _Afghan War Logs_. His intention and what he wanted to achieve was unclear to most of the world. He became the man of interest for the United States of America for his subsequent publications as well. So what made him to do everything should be a matter of concern. His early life was never discussed in a public forum until 2012. Although, Julian Assange never endorsed the movie but praised quite a lot about depiction, direction, and acting.

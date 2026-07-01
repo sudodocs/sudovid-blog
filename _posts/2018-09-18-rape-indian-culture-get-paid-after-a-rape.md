@@ -13,7 +13,7 @@ tags:
   - "politics"
   - "society"
   - "western"
-coverImage: "/images/force.jpg"
+coverImage: "/sudovid-blog/images/force.jpg"
 ---
 
 A very popular question that intellectuals constantly post or throw at us “Where are we heading as a society?” is not relevant anymore. The insecurity of Indian men and their constant proof of masculinity in public is enough to make our Indian society shameful and that popular question as irrelevant.

@@ -15,7 +15,7 @@ tags:
   - "stevenspielberg"
   - "transformers"
   - "transformersriseofthebeasts"
-coverImage: "/images/transformersposter.jpeg"
+coverImage: "/sudovid-blog/images/transformersposter.jpeg"
 ---
 
 Amidst all the recent controversies about aliens resurfacing in the news media, you tend to wonder whether all this is a propaganda or a diversion. Mexican journalist and long-time UFO enthusiast _Jaime Maussan_ claimed that alien bodies were discovered in **Peru** and he showcased them in a hearing. The question that needs to be asked as to how these bodies were transferred to **Mexico** without the permission of the **Peru** government. Whatever it may be, it still works in promoting alien themed movies and spreads doubts and debates all around. Coincidentally, the story of _**Transformers: Rise of the Beasts**_ happens to surround the area of **Peru**.

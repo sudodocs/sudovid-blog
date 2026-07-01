@@ -23,7 +23,7 @@ tags:
   - "uspolitics"
   - "uspresident"
   - "vicepresidentharris"
-coverImage: "/images/THE-DIPLOMAT.png"
+coverImage: "/sudovid-blog/images/THE-DIPLOMAT.png"
 ---
 
 American politics has become a funny affair in the world media. It is not only ridiculous to see the clowns competing with each other, it is disheartening to see the plight of most people on Earth lies with them. Politics aside, the plot of **_The Diplomat_** season 2 stems from the current instability in US politics. In case you're wondering why _Kamala Harris_ didn’t win the election and why she was pitched as an alternative to _Biden_, then you should definitely give this series a try. Indeed, there was only one way for _Kamala_ to assume the top post as rightly pointed out by _Deborah Cahn_ in the final episode of season 2.

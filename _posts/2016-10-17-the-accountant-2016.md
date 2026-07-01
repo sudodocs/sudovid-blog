@@ -12,7 +12,7 @@ tags:
   - "j-k-simmons"
   - "jon-bernthal"
   - "the-accountant"
-coverImage: "/images/acc.jpeg"
+coverImage: "/sudovid-blog/images/acc.jpeg"
 ---
 
 There are only handful of action movies that are properly edited and directed. The list is narrow and I can only name a few, such as _Training Day_, _Shooter_, _Pride and Glory_, and _The Equalizer_. Denzel Washington, Tom Hardy, Mark Wahlberg, and Edward Norton are known to be specialists in their domain but when it comes to Ben Affleck, there is always this possibility for things to go haywire. He ruined _Daredevil_ and now he is ruining _Batman_. Although the dismal performance of the Batman franchise is more to do with the poor direction of Zack Snyder but Ben Affleck isn't going to escape the burnt.

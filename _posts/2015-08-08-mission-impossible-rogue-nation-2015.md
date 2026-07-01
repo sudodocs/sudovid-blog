@@ -13,7 +13,7 @@ tags:
   - "simon-pegg"
   - "syndicate"
   - "tom-cruise"
-coverImage: "/images/mission-cruise.jpg"
+coverImage: "/sudovid-blog/images/mission-cruise.jpg"
 ---
 
 "The _IMF_ has been disavowed!" No matter how many times you hear that phrase, the IMF will eventually pull off something amazing to reinstate itself. _Rogue Nation_ is the newest example of it and possibly the last joy ride for Ethan Hunt (Tom Cruise). According to the rumors, the plan is to pass the baton to Ethan Hunt’s sole apprentice, William Brandt played by Jeremy Renner. Surely, at this point I can neither confirm nor deny about the rumor.

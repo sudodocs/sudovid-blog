@@ -17,7 +17,7 @@ tags:
   - "tesseract"
   - "time"
   - "wormhole"
-coverImage: "/images/interstellar3-xlarge.jpg"
+coverImage: "/sudovid-blog/images/interstellar3-xlarge.jpg"
 ---
 
 Deciphering Nolan is an absurd idea altogether and should be left best at the capable hands only. However, I would still make an attempt here. Space science is a reality which encompasses everything around us and thus to have interest in it is in fact a great idea for provoking thoughts. I was fascinated by it throughout my life but never understood it completely.

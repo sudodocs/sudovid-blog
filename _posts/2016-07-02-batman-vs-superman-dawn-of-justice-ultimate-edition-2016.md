@@ -15,7 +15,7 @@ tags:
   - "warner-bros"
   - "wonder-woman"
   - "zack-snyder"
-coverImage: "/images/20160326-batman-v-superman-dawn-of-justice-movie.jpg"
+coverImage: "/sudovid-blog/images/20160326-batman-v-superman-dawn-of-justice-movie.jpg"
 ---
 
 Batman Vs Superman: Dawn of Justice (Ultimate Edition) should have been released in the theatres. It would have survived the grunt and the agony of the critics. This edition finally sets the tone for the Justice League. Each character received a good length of screen space. Not only Batman (Bruce Wayne from Gotham played by Ben Affleck), Superman (Clark Kent from Smallville played by Henry Cavill), Lex Luther (played by Jesse Eisenberg) and Wonder Woman (Diana Prince from Amazon played by Gal Gadot) received a good share of screen time but we could clearly see the other meta-humans. The Flash (Barry Allen of Star city played by Ezra Miller), Aquaman (Arthur Curry of Atlantis played by Jason Mamoa), and Cyborg (Victor Stone from Star Labs played by Ray Fisher).

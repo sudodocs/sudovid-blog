@@ -19,7 +19,7 @@ tags:
   - "us"
   - "usd"
   - "who"
-coverImage: "/images/joebiden.jpg"
+coverImage: "/sudovid-blog/images/joebiden.jpg"
 ---
 
 One of the ingredients that make the US great is its hold on world organizations such as the _**UN**_, _**NATO**_, _**WHO**_, and so on. The other one is the currency. Yes, that stable **US Dollar** currency which enables the world to trade. The legacy of the great US was under threat when _Donald Trump_ came to power. _Donald Trump_ was a threat to the US as he was ready to pull out the **US** from **_NATO_**, _**WHO**_, and so on. With _Joe Biden_ in, we can safely say that one ingredient has made it back. The other ingredient can also make a comeback if the country’s economy gets a revival. For that, the ongoing pandemic has to be downplayed and to such an extent that the people gain their confidence back in the economy. _Joe Biden’s_ COVID advisor, _Dr. Vivek Murthy_, along with _Dr. Fauci_ had already [_**suggested**_](https://www.npr.org/2020/11/15/935180522/biden-covid-advisor-says-restrictions-should-be-more-of-a-dial-less-of-a-switch) that a national lockdown isn’t required anymore.

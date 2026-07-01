@@ -17,7 +17,7 @@ tags:
   - "thomas-newman"
   - "tom-hanks"
   - "world-war-ii"
-coverImage: "/images/o-bridge-of-spies-facebook.jpg"
+coverImage: "/sudovid-blog/images/o-bridge-of-spies-facebook.jpg"
 ---
 
 https://www.youtube.com/watch?v=ZX5OpL-peV4

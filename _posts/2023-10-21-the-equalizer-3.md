@@ -16,7 +16,7 @@ tags:
   - "robertmccall"
   - "theequalizer3"
   - "tv"
-coverImage: "/images/equalizer3.jpeg"
+coverImage: "/sudovid-blog/images/equalizer3.jpeg"
 ---
 
 _Antoine Fuqua_ is known to deliver some of the best thrillers such as _**Training Day**_, _**Shooter**_, and **Olympus Has Fallen**. The movie _**Equalizer**_ is in fact one of the spin offs from the television series with the same name that aired during 1985-89. Much like the 1966 _**Mission Impossible**_ television series, the movie _**Equalizer**_ has got the same treatment and response. While _**Mission Impossible**_ became a different beast due to the involvement of _Tom Cruise_, the movie _**Equalizer**_ relied heavily on the storyline and the acting performance done by the lead actor.

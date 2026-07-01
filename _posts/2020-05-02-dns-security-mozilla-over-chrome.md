@@ -20,7 +20,7 @@ tags:
   - "tcp"
   - "trusted-recursive-resolver"
   - "udp"
-coverImage: "/images/dns.png"
+coverImage: "/sudovid-blog/images/dns.png"
 ---
 
 There are a number of ways to safely browse the internet. One could use a proxy server, _**TOR**_ proxy, _**VPN**_, or use an operating system that uses those principles. _**TAILS**_ and _**Qubes**_ are the popular ones that comes to my mind. All these solutions are available and things are sorted if you are a techie. For an average user, security has to bundled by default. Until 2005, the internet engineering task force (_IETF_) was not at all interested in securing the very basic such as _DNS_ lookup.
