@@ -15,7 +15,7 @@ tags:
   - "martian-manhunter"
   - "multiverse"
   - "zack-snyder"
-coverImage: "21677-zacksynder.jpg"
+coverImage: "/images/21677-zacksynder.jpg"
 ---
 
 The critics and fans have already spoken or written so much about _**Zack Snyder’s Justice League**_. I think it’s no harm to add a few from my side too. The 4-hour long saga is a treat to watch after the horrific experience of watching the theatrical versions of **_Wonder Woman 84_** and _Joss Whedon’s **Justice League**_. _Zack Snyder_ brought back his dark style storytelling which is one of the factors for my preference to **DC** over **Marvel** with an exception to _**Marvel's Daredevil (TV series)**_.

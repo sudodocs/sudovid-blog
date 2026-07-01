@@ -16,7 +16,7 @@ tags:
   - "raid"
   - "san"
   - "server"
-coverImage: "nutanix.png"
+coverImage: "/images/nutanix.png"
 ---
 
 In the era of enterprise cloud, modern enterprise datacenter must support virtualization with high availability and live **VM** migration. The traditional storage area networks (**SAN**) or network attached storage (**NAS**) doesn’t suit. Instead, they are ideal to manage a logical unit number (**LUN**). A **LUN** can be a single disk, an entire redundant array of independent disks (**RAID**), or disk partitions. The setup requires an entire infrastructure and adds additional costs. Additionally, legacy hypervisors are required to be bought, deployed, and managed as a standalone product with their complex licenses. A hypervisor management tool also needs to be installed separately. This adds additional dependency on software. The face of enterprise class virtualization hasn’t changed over a decade until _**Nutanix**_.

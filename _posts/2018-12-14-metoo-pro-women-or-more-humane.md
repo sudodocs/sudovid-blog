@@ -12,7 +12,7 @@ tags:
   - "section-354a"
   - "tanushree-dutta"
   - "women"
-coverImage: "metoo.png"
+coverImage: "/images/metoo.png"
 ---
 
 Recently, a new movement has kick-started in India where women are opening up about their past sexual harassment experiences. This has made many Indian men scared and spreading counter balancing statements about its misuse. Any movement is subject to misuse but this doesn’t mean that the whole movement loses its credibility. Plight of women in India is already weak and fragile and a sudden outrage against this movement reveals it more. There’s still a lot of confusion about this movement that it is only about women. Let me reassure you, this movement is gender neutral. Anyone who has experienced a sexual misconduct at workplace or around is free to speak-up.

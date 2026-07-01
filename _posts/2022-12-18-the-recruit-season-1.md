@@ -13,7 +13,7 @@ tags:
   - "polar"
   - "russia"
   - "the-recruit"
-coverImage: "therecruit.webp"
+coverImage: "/images/therecruit.webp"
 ---
 
 Have you ever wondered how the US' _**Central Intelligence Agency**_ (CIA) operates or brings charm to running _**Uncle Sam**_? It's pretty hard to guess given the fact that when _John F. Kennedy_ tried to make it accountable for what it does ended up somewhere in the long forgotten history. The story is no different for the hired foreign assets either. It really doesn't matter whether you try to figure it out from the inside or outside. It always bring you back to where you started. Yet _Alexi Hawley_ and _Doug Liman_ tries to answer some of these questions with a darn image by portraying it as _The Company_. We are pretty sure how a corporate company works and how the internal politics plays out. Their latest venture, _**The Recruit**_, reveals exactly that.

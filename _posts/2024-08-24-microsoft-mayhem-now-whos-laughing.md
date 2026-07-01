@@ -18,7 +18,7 @@ tags:
   - "windows"
   - "windows-11"
   - "wsl"
-coverImage: "ms.png"
+coverImage: "/images/ms.png"
 ---
 
 The recent _**CrowdStrike**_ update that caused mayhem around the PC world resulted in the loss of several billions of dollars for some organizations. Some will take matters to the court while some will continue to pamper _**CrowdStrike**_ for security bullshit. Personally, I don’t hate security but I hate the idea when it becomes a limiting factor for overall functioning of the software. While we are at it, we need to discuss the underlying factor on which security hue and cry is made up. It’s the operating system that we don’t trust and try to secure with unnecessary applications. And, what’s the common denominator in all of them? _**Microsoft Windows**_!

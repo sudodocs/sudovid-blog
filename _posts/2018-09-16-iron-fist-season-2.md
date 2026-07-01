@@ -14,7 +14,7 @@ tags:
   - "sacha-dhawan"
   - "season-2"
   - "season-3"
-coverImage: "ironfist2.png"
+coverImage: "/images/ironfist2.png"
 ---
 
 It may be out of context but having hopped several uncivilised cities in India, a firm understanding is now established in my mind. Nobody can pass a judgement on, or understand, a city merely from the word of mouth. People's own experience are always different from others. **Marvel** presents the city of New York as the only playground of world. Almost every important thing is linked to it. Why? Just an obsession really.

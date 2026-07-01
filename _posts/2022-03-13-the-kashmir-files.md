@@ -12,7 +12,7 @@ tags:
   - "the-kashmir-files"
   - "us"
   - "vivek-aghnihotri"
-coverImage: "001a0-the-kashmir-files.jpeg"
+coverImage: "/images/001a0-the-kashmir-files.jpeg"
 ---
 
 Mass media is a powerful tool that mobilizes public opinion. Unfortunately, this tool is abused in various forms either to inform or disinform. Our mainstream media follows a technique of “omission” while reporting. And, even if they are forced to acknowledge some _**omissions**_, they choose to discredit it as a hypothesis or propaganda later.

@@ -25,7 +25,7 @@ tags:
   - "the-night-agent"
   - "the-recruit"
   - "vondie-curtis-hall"
-coverImage: "vlcsnap-2025-02-02-01h27m21s553.png"
+coverImage: "/images/vlcsnap-2025-02-02-01h27m21s553.png"
 ---
 
 When I wrote about [The Recruit season 1](https://beyondpolitik.com/the-recruit-season-1/), I was mostly fascinated by its crisp storyline, characterization, and acting performance. As a fan of spy-thrillers, this show became an instant hit for my eyes. Though I feel that season 1's story danced around **_Belarus_** narrative too much which I called out in my review, I felt this show had all the makings of a perfect spy-thriller drama for binge-watchers back in 2022. Gladly, the show never banked on fake social media promotions or paid reviews like [**_The Night Agent_**](https://www.imdb.com/title/tt13918776/) and remained a success on its own strong points.

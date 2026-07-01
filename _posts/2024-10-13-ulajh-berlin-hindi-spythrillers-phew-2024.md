@@ -15,7 +15,7 @@ tags:
   - "rahul-bose"
   - "rocket-boys"
   - "ulajh"
-coverImage: "Ulajh-Berlin.png"
+coverImage: "/images/Ulajh-Berlin.png"
 ---
 
 Spy-thrillers have taken a back seat in today’s cinema. This is true at least in Hollywood but Hindi cinema is taking big leaps in democratizing this idea. We have decent political and spy thrillers in the Hindi cinema. While the movies such as _**Baby**_ and _**Naam Shabana**_ had inclination towards spy thrillers, the movies such as _**Madras Cafe**_ and _**Raazi**_ had the elements of drama cum political thrillers too. But, then later there was a long silence in Hindi cinema. India has been a central stage for most geopolitics being a superpower in South Asia. It is therefore important for Hindi cinema to explore these ideas more. The recent movies, _**Berlin**_ and _**Ulajh**_, bring back those elements in the most crude way possible. While the latter suffers a great deal of mediocre screenplay and acting, _**Berlin**_ still brings a perfect blend of screenplay, acting, and direction.  

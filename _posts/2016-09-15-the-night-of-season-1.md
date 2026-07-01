@@ -17,7 +17,7 @@ tags:
   - "steven-zaillian"
   - "the-night-of"
   - "thriller"
-coverImage: "the-night-of-nas-arrested.jpg"
+coverImage: "/images/the-night-of-nas-arrested.jpg"
 ---
 
 What best could be done for a Pakistani-American in an era where every muslim is linked and treated to be a suicide bomber? Nothing much really. The only way that could possibly pamper both the sides, one being American and the other a Pakistani, is a condition of a perfect deadlock. A situation that we sometimes arrive at while using our computers. A point where we tend to forcefully shutdown the entire system. This is the only solution that could be offered to a Pakistani-American in a case where all the circumstantial evidence says otherwise.

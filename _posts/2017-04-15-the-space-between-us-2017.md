@@ -11,7 +11,7 @@ tags:
   - "janet-montgomery"
   - "peter-chelsom"
   - "the-space-between-us"
-coverImage: "the-space-between-us.jpg"
+coverImage: "/images/the-space-between-us.jpg"
 ---
 
 There are issues in this world which should be best left for understanding at the capable hands of our **God** but then there are people like me who would still want to understand each and everything. Love to me is nothing short of some chemical imbalance that happens because of our fixation towards an individual. This generally leads to exaggerated emotions, lack of self-control, and paranoia. For some, it’s a divine feeling that ought to exist forever.

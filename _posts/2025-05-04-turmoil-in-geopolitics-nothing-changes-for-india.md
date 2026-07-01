@@ -13,7 +13,7 @@ tags:
   - "ukraine"
   - "us"
   - "usd"
-coverImage: "India.png"
+coverImage: "/images/India.png"
 ---
 
 A few weeks here and there doesn’t change the status quo in geopolitics. While Russia is busy bombing Ukraine, the world is looking for alternatives to stop the ongoing madness. Israel-Palestine engagement is not too much of a distraction hence India-Pakistan needs much more social media presence. 

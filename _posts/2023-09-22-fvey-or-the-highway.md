@@ -18,7 +18,7 @@ tags:
   - "trudeau"
   - "united-kingdom"
   - "vietnam"
-coverImage: "india-canada.jpg"
+coverImage: "/images/india-canada.jpg"
 ---
 
 The recent geopolitical developments are of concern for each global citizen. The killing of a terrorist in Canada is publicized in the media as a matter of deep concern by the west. It’s laughable but it’s the west and so we all have to heed to their supremacy. India has been a punching bag for the world for the longest time possible and there’s nothing new India will gain out of this geopolitical situation. The _**Five Eyes**_ or _**FVEY**_ countries comprises Australia, Canada, New Zealand, the United Kingdom, and the United States. All of them are part of a joint treaty to facilitate and cooperate on gathering **_signal intelligence_**. _Signal intelligence_ is nothing but tracking people’s movements and intercepting their communications.

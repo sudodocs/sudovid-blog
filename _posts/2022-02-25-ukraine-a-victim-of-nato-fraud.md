@@ -15,7 +15,7 @@ tags:
   - "opec-2"
   - "russia"
   - "ukraine"
-coverImage: "ukraine.webp"
+coverImage: "/images/ukraine.webp"
 ---
 
 There used to be a time when we had conversations based on hard facts. That time is long gone. The hard fact is that the world politics is largely driven by organisations such as `**_NATO_**`, `_**CSTO**_`, `_**OPEC**_`, and `_**OPEC+**_`. If you see countries that are or were in conflict, you'll see the role of these organisations in shaping up the future of other members or its neighbors within these organisations.

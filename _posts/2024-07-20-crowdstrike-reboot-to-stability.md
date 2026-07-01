@@ -19,7 +19,7 @@ tags:
   - "testing"
   - "ux"
   - "windows"
-coverImage: "crowdstrike.png"
+coverImage: "/images/crowdstrike.png"
 ---
 
 The [_**recent incident**_](https://www.crowdstrike.com/blog/falcon-update-for-windows-hosts-technical-details/) with _**CrowdStrike**_ is a big one in computing history. This is the biggest outage that the world has faced without encountering a cyber attack. In order to not face such an unnecessary and easily avoidable issue, we need to set the context right. In the last decade, we have seen a major shift in the adoption of cloud services instead of going infrastructure mode. The incentive is that in order to create your own infrastructure, a lot of capital expenditure is required. The cloud services on the other hand tend to offer flexibility by providing subscription based adoption depending upon your business needs. This has pushed for an overhaul of the business strategies across the world.

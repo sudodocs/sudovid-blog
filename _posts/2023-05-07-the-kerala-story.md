@@ -15,7 +15,7 @@ tags:
   - "kurdish"
   - "secularism"
   - "yazidi"
-coverImage: "keralastory.webp"
+coverImage: "/images/keralastory.webp"
 ---
 
 _**The Kerala Story**_ was never a part of my watchlist but the recent hue and cry about the movie in media (and social media) compelled me to watch it. As an atheist, I instantly disregard any material that promotes any type of religion be it Abrahamic (the one that has prophets and some magical stories) or the other one that was never meant to be a religion (being a civilization with a large amount of texts ranging from literature to science). It’s more saddening to see if someone has to defend or justify their beliefs in order to not succumb to another one. While the entire political world still feeds on this very idea, the terrorist groups are no different. If you leave a vulnerability open for centuries and millennia, it is bound to get tossed around and abused.

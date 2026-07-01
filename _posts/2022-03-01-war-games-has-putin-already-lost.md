@@ -15,7 +15,7 @@ tags:
   - "social-media"
   - "ukraine"
   - "war"
-coverImage: "russia-ukraine.webp"
+coverImage: "/images/russia-ukraine.webp"
 ---
 
 _Putin_ has lost the war? This is what you have been seeing or hearing these days. When you rely on the interpretation of the mainstream media for your opinion, it is always advisable to read through the facts. That not only validates your understanding but also clears the cloud of confusion.

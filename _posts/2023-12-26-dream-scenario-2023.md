@@ -17,7 +17,7 @@ tags:
   - "the-family-man"
   - "thriller"
   - "viral"
-coverImage: "dream-scenario-nicolas-cage.jpeg"
+coverImage: "/images/dream-scenario-nicolas-cage.jpeg"
 ---
 
 How many of us in the current social set up yearn for social validation and acceptance in the real or online world? The number would be huge and could encompass almost the entire human race in one way or another. The entire business of social media has pushed us to a limit where we have willingly productized ourselves for the market and later become a medium to sell products of other people. In such a world, if you get viral (unfortunately the word that we don’t use for disease these days) for a negative scenario, it could be catastrophic. The movie _**Dream Scenario**_ banks on this very idea and explores what may or may not be true.

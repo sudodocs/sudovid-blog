@@ -21,7 +21,7 @@ tags:
   - "perplexity"
   - "sam-altman"
   - "wordpress"
-coverImage: "SearchGPT.png"
+coverImage: "/images/SearchGPT.png"
 ---
 
 **_OpenAI_** is one such company that can give **_Google_** a run for their money. If you have been using **_ChatGPT_**, you’d know that **_ChatGPT_** doesn’t have access to the web and it cannot give you real-time data. Though **_Microsof_**t partnered with **_OpenAI_** for their own search engine **_Bing_**, I guess that wasn’t the thing that _Sam Altman_ from **_OpenAI_** had in his mind. With their latest product, **_SearchGPT_**, they seek to bridge that gap and take leaps in threatening the monopoly of **_Google_**.

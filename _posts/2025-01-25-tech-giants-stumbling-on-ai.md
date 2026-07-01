@@ -30,7 +30,7 @@ tags:
   - "stargate"
   - "trump"
   - "us"
-coverImage: "Tech-Giants-WordPress.png"
+coverImage: "/images/Tech-Giants-WordPress.png"
 ---
 
 When OpenAI’s CEO _Sam Altman_ in 2023 challenged that India does not have the capability to build a large language model similar to _**ChatGPT**_, it received a widespread backlash on social media spheres in India. Now, fast forward to 2025, the recent **_Stargate Project_** announcement in the US backed by _**OpenAI**_, _**Oracle**_, _**SoftBank**_, and _**MGX**_ is an endorsement to the fact that there was indeed some truth to the argument made in 2023.

@@ -18,7 +18,7 @@ tags:
   - "the-last-dance"
   - "tom-hardy"
   - "venom"
-coverImage: "Venom-3-Last-Dance-Bad-Reviews.webp"
+coverImage: "/images/Venom-3-Last-Dance-Bad-Reviews.webp"
 ---
 
 The **_Marvel Cinematic Universe_** is already full of so many villains when you see from the point of view of **Earth-616** and when **_Sony Pictures_** keep on spinning new characters it becomes a chaotic mess. Before we get into the movie details, let us ponder over the post-credit scenes that most of us are interested in. The first one is indeed the one I’m talking about. The character [**_Knull_**](https://www.marvel.com/characters/knull) is the one that [**_Eddie_**](https://marvel.fandom.com/wiki/Edward_Brock_\(Earth-616\)) and [**_Venom_**](https://marvel.fandom.com/wiki/Venom_\(Symbiote\)_\(Earth-616\)) defeated in the battle. Keeping him alive as [**_King in Black_**](https://www.marvel.com/comics/guides/2075/king-in-black) would mean the continuation of the storyline that Marvel can make use of in the future with the upcoming [**_Avengers_**](https://www.marvel.com/teams-and-groups/avengers/in-comics) movie.

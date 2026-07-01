@@ -10,7 +10,7 @@ tags:
   - "raj-and-dk"
   - "shahid-kapoor"
   - "vijay-sethupathi"
-coverImage: "farzi.jpg"
+coverImage: "/images/farzi.jpg"
 ---
 
 _Raj Nidimoru and Krishna D.K._ know very well what clicks with the audience. There were days when use of abusive language or slang was taboo in the mainstream cinema. A special thanks to _Vishal Bhardwaj_ and _Anurag Kashyap_, the use of slang is now just a regular dialog. _**Raj & DK**_ have created good story lines with near perfect camera work in the past. _**Go Goa Gone**_ and _**The Family Man**_ both had good plots with some impressive camera work. 

@@ -19,7 +19,7 @@ tags:
   - "osage"
   - "robertdeniro"
   - "silence"
-coverImage: "killers-of-the-flower-moon.jpeg"
+coverImage: "/images/killers-of-the-flower-moon.jpeg"
 ---
 
 Up until recently, you must be hearing news about European countries tightening their rules of immigration to stop further influx of unwanted races getting mixed with their population. You must know that these Europeans were in fact the first immigrants the world has seen. When _Christopher Columbus_ discovered America in lust of finding _**India**_, the native Americans were ludicrously called as Indians. The struggle started when the immigrant white Europeans found that the American land too offers the same rich resources, flora, and fauna as they would have gotten from India. Then began a series of hatred, neglection, and racism. The story of _**Osage**_ murders is, however, based on extreme hatred and greed. This wild west story is in fact the bloodiest in American crime history.

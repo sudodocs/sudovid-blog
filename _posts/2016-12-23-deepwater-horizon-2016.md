@@ -16,7 +16,7 @@ tags:
   - "nasa"
   - "peter-berg"
   - "transocean"
-coverImage: "501439248_17679808_8col.jpg"
+coverImage: "/images/501439248_17679808_8col.jpg"
 ---
 
 Deepwater Horizon was the free floating 5,200 feet tall, semi-submersible offshore oil drilling rig. The facility was commissioned at a distance of 49 miles from the southeast direction of the Louisiana coast and had the capacity to produce 4,426 cubic metres of fuel oil. The roadmap was to produce 3-4 billion barrels of oil from the wells of Macondo and Kaskida. The remains of that big dream are now buried under water. Peter Berg makes an attempt to re-create the incidences that led to the fall of that big giant oil drilling rig. Did he manage to succeed?

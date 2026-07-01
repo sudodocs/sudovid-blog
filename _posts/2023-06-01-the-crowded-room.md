@@ -13,7 +13,7 @@ tags:
   - "psychologicalthriller"
   - "thecrowdedroom"
   - "tomholland"
-coverImage: "apple_tv_the_crowded_room_key_art_graphic_header_4_1_show_home.jpg.og_.jpg"
+coverImage: "/images/apple_tv_the_crowded_room_key_art_graphic_header_4_1_show_home.jpg.og_.jpg"
 ---
 
 A dissociative identity disorder or multiple personality disorder is a rare medical condition. And I believe that exploring this through a miniseries is a great idea. You see, only a series can give you ample space and time to build a complex character arc. When **Netflix** tried to portray this through a documentary, it was clear to me that a full grown adaptation can only do justice to this kind of complexity. And after watching the adaptation on **Apple TV** plus, I think that _**The Crowded Room**_ shines and leaps miles ahead of most psychological thrillers. It’s an adaptation of the 1981 novel, _**The Minds of Billy Milligan**_, written by _Daniel Keyes_.

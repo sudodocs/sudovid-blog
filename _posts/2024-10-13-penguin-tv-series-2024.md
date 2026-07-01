@@ -12,7 +12,7 @@ tags:
   - "penguin"
   - "robert-pattisnson"
   - "victor-zsasz"
-coverImage: "the-batman-colin-farrell.png"
+coverImage: "/images/the-batman-colin-farrell.png"
 ---
 
 I wonder why I am not surprised to see the gloomy and gray shades in the new HBO series, **_Penguin_**_._ Though it’s an extension of the _Matt Reeves’_ **_Batman_** franchise, I guess I found some peculiar similarities to _Bruno Heller’s_ **_Gotham_**. The characters are very similar and the dialog delivery is slow and poised just like in the series. That series failed with its charm only because Bruno tried too many things in the same way in every season and kept on adding more characters. The outcome was detrimental and the series became a laughing stock just like other DC’s CW series.

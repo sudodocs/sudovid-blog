@@ -17,7 +17,7 @@ tags:
   - "the-mentalist"
   - "true-detective"
   - "woody-harrelson"
-coverImage: "true_detective_tv_wallpaper_2-1366x768-1.jpg"
+coverImage: "/images/true_detective_tv_wallpaper_2-1366x768-1.jpg"
 ---
 
 There are times in life when you just want to disconnect with the world and don’t really know how to pour some sanity back into the head. So would you dare to even watch some crime series for a revival? I don’t think many would agree to that but then it’s not that simple to come out with a clear answer and generalize it for everyone. I may be a little odd at times for some generalization. When I finished _The Mentalist_ and _Sherlock_, I almost formed an opinion that there’s always a certain way of storytelling. Bruno Hellar and Mark Gatiss have had almost convinced me of the opinion. But then there is a guy, Nic Pizzolatto, who would disagree with them on many fronts. What the brain feeds on doesn’t have to be fully cooked. The brain can realign its circuits when fed with dark and twisted tales haywire.

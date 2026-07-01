@@ -13,7 +13,7 @@ tags:
   - "john-paesano"
   - "marvel"
   - "netflix"
-coverImage: "555a80e4613ee.jpg"
+coverImage: "/images/555a80e4613ee.jpg"
 ---
 
 Do you think it is an added advantage being a catholic? I might agree to the notion but you may wonder what's the connection here. Consider yourself lucky if you needed a shrink, and chose to only visit the priest instead. Imagine the amount of money you would be saving for yourself. Food for thought, isn't it? Marvel's _Daredevil_ seems to have adopted this idea and so far has been a success on _Netflix_.

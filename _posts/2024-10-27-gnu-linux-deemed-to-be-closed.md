@@ -19,7 +19,7 @@ tags:
   - "us"
   - "wordpress"
   - "wp-engine"
-coverImage: "Linux-Deemed-to-be-Closed-Source.png"
+coverImage: "/images/Linux-Deemed-to-be-Closed-Source.png"
 ---
 
 In my last article [WP Engine Vs Automattic!](https://beyondpolitik.com/wp-engine-vs-automattic/), I expressed discontent with the monopoly of directives against a company, **_WP Engine_** while writing an article on a **_WordPress_** run website. As an analogy, I used GNU/Linux philosophy to treat open-source as is. All this goes to trash when I hear _Linus Torvalds_ (the creator of the Linux kernel) advocate for the ban on certain Russian developers. He says he is _Finnish_ and so he is against Russian interference.

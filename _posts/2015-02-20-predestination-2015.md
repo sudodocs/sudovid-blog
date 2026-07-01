@@ -16,7 +16,7 @@ tags:
   - "predestination"
   - "robert-heinlein"
   - "science"
-coverImage: "s9dkwk5fxzaqfozkzkidkok4kr9.jpg"
+coverImage: "/images/s9dkwk5fxzaqfozkzkidkok4kr9.jpg"
 ---
 
 Philosophies and theories could bore you to death and many of us believe that a sane theory such as Science should be developed and nurtured until it reaches a point to be accepted as Law. It might well be confusing to understand but there’s always a thin line between a philosophy and science. Now, imagine a situation where a philosophy could rewrite itself and be developed into a full grown Science. Would you ever accept that? Peter Spierig would.

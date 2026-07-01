@@ -21,7 +21,7 @@ tags:
   - "war-economy"
   - "west"
   - "yemen"
-coverImage: "ARAB-SPRING.png"
+coverImage: "/images/ARAB-SPRING.png"
 ---
 
 At the end of the second world war, countries across the world started to realign themselves among different groups owing to rebuilding their economies. Some transformed into democracies while others managed through the spread of communism and dictatorial regimes. The world was busy testing the theories of capitalism, socialism, and communism. The nonsensical era of cold war began when capitalists managed democracies started to feel the need to grab hold of the world resources and compete with each other. The past and current geopolitical scenario is largely dictated by the concept of natural resources and where they are mainly located.
