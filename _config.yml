@@ -1,0 +1,5 @@
+title: "Sudovid Blog"
+description: "My personal blog and articles."
+url: "https://sudodocs-admin.github.io"
+baseurl: "/sudovid-blog"
+permalink: /:year/:month/:day/:title/
