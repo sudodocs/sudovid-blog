@@ -124,11 +124,20 @@ h1, h2, h3, h4 {
     padding-left: 20px;
     margin: 40px 0;
 }
-/* --- Newspaper Masthead (Full Screen) --- */
+/* --- Newspaper Masthead (Full Screen Breakout) --- */
 .newspaper-home {
-    max-width: 100%; /* Removes the 1200px limit, letting it stretch edge-to-edge */
-    padding: 0 4vw;  /* Uses viewport width for padding so it always has breathing room */
+    /* The Breakout Trick: Forces the container to be exactly as wide as the browser window */
+    width: 100vw; 
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    
+    /* Padding to keep text away from the absolute edge of the glass */
+    padding: 0 4vw; 
     box-sizing: border-box;
+    
+    /* Ensure no horizontal scrollbars appear */
+    overflow-x: hidden; 
 }
 
 .newspaper-masthead {
