@@ -7,10 +7,11 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
-    <header class="site-header">
-        <div class="wrapper">
-            <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
-        </div>
+    <header class="newspaper-masthead" style="margin-top: 20px;">
+        <h1 class="newspaper-title">
+            <a href="{{ '/' | relative_url }}">The Sudovid Times</a>
+        </h1>
+    <div class="newspaper-date">{{ site.time | date: "%A, %B %d, %Y" }}</div>
     </header>
 
     <main class="page-content" aria-label="Content">
