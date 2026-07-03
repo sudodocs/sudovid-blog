@@ -2,63 +2,21 @@
 layout: default
 title: Home
 ---
-<div class="newspaper-home">
-    
-    <header class="newspaper-masthead">
-        <h1 class="newspaper-title">The Sudovid Times</h1>
-        <div class="newspaper-date">{{ site.time | date: "%A, %B %d, %Y" }}</div>
-    </header>
-
-    <div class="newspaper-layout-3col">
-        
-        <aside class="side-column left-column">
-            {% for post in site.posts offset:1 limit:3 %}
-                <article class="sub-post">
-                    {% if post.coverImage %}
-                        <a href="{{ post.url | relative_url }}">
-                            <img src="{{ post.coverImage }}" alt="{{ post.title }}" class="sub-post-image">
-                        </a>
-                    {% endif %}
-                    <div class="sub-post-text">
-                        <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-                        <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
-                    </div>
-                </article>
-            {% endfor %}
-        </aside>
-
-        <main class="center-column">
-            {% for post in site.posts limit:1 %}
-                <article class="featured-post">
-                    {% if post.coverImage %}
-                        <a href="{{ post.url | relative_url }}">
-                            <img src="{{ post.coverImage }}" alt="{{ post.title }}" class="featured-image">
-                        </a>
-                    {% endif %}
-                    <div class="featured-content">
-                        <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-                        <p class="post-meta">{{ post.date | date: "%B %-d, %Y" }} | <span class="news-category">{{ post.categories | join: ", " | upcase }}</span></p>
-                        <p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 45 }}</p>
-                    </div>
-                </article>
-            {% endfor %}
-        </main>
-        
-        <aside class="side-column right-column">
-            {% for post in site.posts offset:4 %}
-                <article class="sub-post">
-                    {% if post.coverImage %}
-                        <a href="{{ post.url | relative_url }}">
-                            <img src="{{ post.coverImage }}" alt="{{ post.title }}" class="sub-post-image">
-                        </a>
-                    {% endif %}
-                    <div class="sub-post-text">
-                        <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-                        <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
-                    </div>
-                </article>
-            {% endfor %}
-        </aside>
-
+<div class="memoirs-home">
+    <div class="memoirs-grid">
+        {% for post in site.posts %}
+            <div class="memoirs-card">
+                {% if post.coverImage %}
+                    <a href="{{ post.url | relative_url }}">
+                        <img src="{{ post.coverImage }}" alt="{{ post.title }}" class="memoirs-image">
+                    </a>
+                {% endif %}
+                <div class="memoirs-content">
+                    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+                    <span class="memoirs-meta">{{ post.date | date: "%B %-d, %Y" }}</span>
+                    <p class="memoirs-excerpt">{{ post.excerpt | strip_html | truncatewords: 25 }}</p>
+                </div>
+            </div>
+        {% endfor %}
     </div>
 </div>
