@@ -87,10 +87,16 @@ h1, h2, h3, h4 {
    NEWSPAPER HOMEPAGE LAYOUT
    ========================================= */
 
-.newspaper-home {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 0 20px;
+/* --- Full Screen Breakout for Homepage & Masthead --- */
+.newspaper-home, .newspaper-masthead {
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    padding: 0 4vw; /* Adds breathing room on the left and right edges */
+    box-sizing: border-box;
 }
 
 .newspaper-masthead {
@@ -127,8 +133,9 @@ h1, h2, h3, h4 {
 /* --- Main Layout: 3 Columns --- */
 .newspaper-layout-3col {
     display: grid;
-    grid-template-columns: 1fr 2fr 1fr;
-    gap: 30px;
+    /* Ratio: Left gets 1 part, Center gets 2.5 parts, Right gets 1 part */
+    grid-template-columns: 1fr 2.5fr 1fr; 
+    gap: 40px;
 }
 
 .side-column {
@@ -197,25 +204,48 @@ h1, h2, h3, h4 {
     color: var(--meta-color);
 }
 
-/* --- Mobile Responsiveness --- */
+/* =========================================
+   MOBILE & TABLET RESPONSIVENESS
+   ========================================= */
 @media (max-width: 992px) {
+    /* Stack the layout vertically */
     .newspaper-layout-3col {
         display: flex;
         flex-direction: column;
     }
+    
+    /* 1. FEATURED ARTICLE (Moves to absolute top) */
     .center-column {
-        order: -1; 
-        border-bottom: 2px solid #111;
-        padding-bottom: 30px;
-        margin-bottom: 30px;
+        order: 1; 
+        border-bottom: 3px solid #111;
+        padding-bottom: 40px;
+        margin-bottom: 40px;
     }
-    .left-column, .right-column {
-        border: none;
-        padding: 0;
-    }
+    
+    /* 2. LEFT COLUMN (Sits under featured article) */
     .left-column {
+        order: 2;
+        border-right: none;
         border-bottom: 1px solid #ccc;
-        padding-bottom: 30px;
-        margin-bottom: 30px;
+        padding-right: 0;
+        padding-bottom: 40px;
+        margin-bottom: 40px;
+    }
+    
+    /* 3. RIGHT COLUMN (Sits at the very bottom) */
+    .right-column {
+        order: 3;
+        border-left: none;
+        padding-left: 0;
+    }
+
+    /* Shrink the massive masthead title so it fits on narrow phone screens */
+    .newspaper-title {
+        font-size: 2.2rem;
+    }
+    
+    /* Make the hero title slightly smaller for readability */
+    .featured-content h2 {
+        font-size: 2.2rem;
     }
 }

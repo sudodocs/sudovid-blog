@@ -33,7 +33,11 @@ title: Home
                     <div class="featured-content">
                         <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
                         <p class="post-meta">{{ post.date | date: "%B %-d, %Y" }} | <span class="news-category">{{ post.categories | join: ", " | upcase }}</span></p>
-                        <p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 45 }}</p>
+                        
+                        <div class="post-content">
+                            {{ post.content }}
+                        </div>
+                        
                     </div>
                 </article>
             {% endfor %}
