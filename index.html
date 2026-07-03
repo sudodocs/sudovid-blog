@@ -33,18 +33,16 @@ title: Home
                     <div class="featured-content">
                         <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
                         <p class="post-meta">{{ post.date | date: "%B %-d, %Y" }} | <span class="news-category">{{ post.categories | join: ", " | upcase }}</span></p>
-                        
                         <div class="post-content">
                             {{ post.content }}
                         </div>
-                        
                     </div>
                 </article>
             {% endfor %}
         </main>
         
         <aside class="side-column right-column">
-            {% for post in site.posts offset:4 %}
+            {% for post in site.posts offset:4 limit:3 %}
                 <article class="sub-post">
                     {% if post.coverImage %}
                         <a href="{{ post.url | relative_url }}">
@@ -60,4 +58,24 @@ title: Home
         </aside>
 
     </div>
+
+    <div class="newspaper-bottom-section">
+        <h2 class="bottom-section-title">More Stories</h2>
+        <div class="newspaper-footer-grid">
+            {% for post in site.posts offset:7 %}
+                <article class="footer-post">
+                    {% if post.coverImage %}
+                        <a href="{{ post.url | relative_url }}">
+                            <img src="{{ post.coverImage }}" alt="{{ post.title }}" class="footer-post-image">
+                        </a>
+                    {% endif %}
+                    <div class="footer-post-text">
+                        <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+                        <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
+                    </div>
+                </article>
+            {% endfor %}
+        </div>
+    </div>
+
 </div>

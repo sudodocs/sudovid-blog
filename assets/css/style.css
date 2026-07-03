@@ -205,6 +205,58 @@ h1, h2, h3, h4 {
 }
 
 /* =========================================
+   BOTTOM HORIZONTAL GRID (Footer Posts)
+   ========================================= */
+.newspaper-bottom-section {
+    margin-top: 60px;
+    border-top: 4px solid #111;
+    padding-top: 30px;
+}
+
+.bottom-section-title {
+    font-family: var(--font-body);
+    font-size: 1.8rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 30px;
+}
+
+.newspaper-footer-grid {
+    display: grid;
+    /* Automatically creates as many 220px columns as will fit across the screen */
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 30px;
+}
+
+.footer-post {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-post-image {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    margin-bottom: 12px;
+}
+
+.footer-post-text h3 {
+    font-family: var(--font-body);
+    font-size: 1.2rem;
+    line-height: 1.2;
+    margin: 0 0 5px 0;
+}
+
+.footer-post-text h3 a { color: #111; }
+
+.footer-post-text .post-meta {
+    font-size: 13px;
+    margin: 0;
+    font-family: var(--font-ui);
+    color: var(--meta-color);
+}
+
+/* =========================================
    MOBILE & TABLET RESPONSIVENESS
    ========================================= */
 @media (max-width: 992px) {
