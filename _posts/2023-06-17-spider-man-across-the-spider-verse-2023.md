@@ -19,7 +19,7 @@ coverImage: "/images/acrossthespiderverse-scaled.jpg"
 
 It’s been long overdue for me to watch _**Spider-Man: Across the Spider Verse**_. Though the Spider verse movies are not two dimensional, it surely gives a feel of that. It sort of brought back my childhood memories of _**Spider-Man: The Animated Series**_ from 1994 that used to run on the television network, **Fox Kids**. Already, _**Spider-Man: Into the Spider Verse**_ was a huge success for **Sony** and with the latest storyline, it just validates that **Sony** animation can still work as a savior for **Marvel** when _**Disney’s**_ take on **Marvel** universe disappoints.
 
-https://www.youtube.com/watch?v=bt9Oifx2bCo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bt9Oifx2bCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Instead of focusing on _Peter Parkers_, here we have the luxury of diverting our attention to a new entrant into **MCU**. To me it gives me vibes of 2017 thriller movie, _**Get Out**_. It surely is difficult for a new _**Spider-Man**_ to break through. Something similar to _**Get Out**_ where a black American guy is tortured to an extent that it becomes evident that he is unwelcomed. But, surprisingly, _Daniel Kaluuya_ from _**Get Out**_ has given his voice to the **_Spider Punk_** character, _Hobie Brown_. You might even notice the British accent of _Hobie Brown_ with a lot of references to British slang and frankly I didn’t get the most of it. But, it’s subtle and there for you to decipher the cultural nuances of different _Spider-Men_.
 

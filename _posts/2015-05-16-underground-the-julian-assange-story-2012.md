@@ -27,11 +27,9 @@ Having watched _Mad Max: Fury Road (2015)_ and _Underground: The Julian Assange 
 
 Later in 2013, Steven Spielberg's _Dreamworks_ intended to release their version about Julian Assange and his work by the name, _The Fifth Estate_. Ironicaly, the movie was based on books _Inside WikiLeaks_ by Daniel Domscheit-Berg and _WikiLeaks: Inside Julian Assange's War on Secrecy_ by David Leigh and Luke Harding which are considered only half true and half misleading. Daniel Domscheit-Berg only presented his inferences with his version. Although he worked with Assange closely but chose to present only his side of the story. The movie was criticized heavily by Assange for transforming the work of fiction into facts. He even wrote to the lead actor, Benedict Cumberbatch describing about the motive behind the movie.
 
-https://wikileaks.org/First-Letter-from-Julian-Assange.html
+Read the [First Letter from Julian Assange](https://wikileaks.org/First-Letter-from-Julian-Assange.html) directly on their archives.
 
-Assange claimed that the script is misleading and describes lies as facts.
-
-https://wikileaks.org/IMG/html/wikileaks-dreamworks-memo.html
+[Assange claimed that the script is misleading and describes lies as facts.](https://wikileaks.org/IMG/html/wikileaks-dreamworks-memo.html)
 
 Even the actors involved in the movie,_The Fifth Estate_, described the screenplay and direction to be a work of some sort of personal vendatta against Assange. Personally, I also never liked Bill Condon as a director.
 

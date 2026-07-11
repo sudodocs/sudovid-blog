@@ -83,6 +83,32 @@ h1, h2, h3, h4 {
     margin: 40px 0;
 }
 
+/* --- Beautified Article Links --- */
+.post-content a {
+    color: var(--brand-color);
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 4px;
+    font-weight: 500;
+    transition: all 0.2s ease-in-out;
+}
+
+.post-content a:hover {
+    color: #111;
+    text-decoration-color: #111;
+}
+
+/* --- Responsive YouTube Embeds --- */
+.post-content iframe {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    height: auto;
+    border: none;
+    border-radius: 6px;
+    margin: 35px 0;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
 /* =========================================
    NEWSPAPER HOMEPAGE LAYOUT
    ========================================= */

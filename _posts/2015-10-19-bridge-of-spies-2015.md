@@ -19,7 +19,7 @@ tags:
 coverImage: "/images/o-bridge-of-spies-facebook.jpg"
 ---
 
-https://www.youtube.com/watch?v=ZX5OpL-peV4
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZX5OpL-peV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 The events of post _World War II_ hold significant value in defining the dynamics of the modern geopolitical strategy. And to portray it an inch closer to the reality (at least from the American perspective) can only be done by Steven Spielberg. He has already done it in _Saving Private Ryan_ and now again in _Bridge of Spies_. A political thriller such as this generally require the right mix of human emotions to be able to connect with the audience. Tom Hanks was his choice once but to bring him back again, _would it help_?
 
