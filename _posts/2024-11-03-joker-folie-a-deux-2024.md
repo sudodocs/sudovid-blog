@@ -20,7 +20,7 @@ coverImage: "/images/Joker-Thumbnail.png"
 
 **_Joker: Folie a Deux_** is not a regular DC fan movie. _Todd Philips_ didn’t want to destroy what _Christopher Nolan_ successfully portrayed on screen in **_The Dark Knight_**. The character of **Joker** played by _Heath Ledger_ was iconic and despite _Heath Ledger’_s sad and early demise, the fans continue to love what he did to the character. _Todd Philips' take_ on **Joker** is set as a prequel to _Christopher Nolan’s_ character. **_Joker: Folie a Deux_** then becomes a no brainer but to set things right for **_The Dark Knight._** 
 
-https://www.youtube.com/watch?v=gfDCboN0hrE
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gfDCboN0hrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 If you notice the last scene where a prison inmate grabs Arthur’s attention and then stabs him, you’ll notice what he does in the background. He immediately carves out a smiley face with his knife. This is something that _Heath Ledger’s_ character has been wanting to tell us in **_The Dark Knight. “_**Do you know how I got this scar?” It’s only DC that can tell us whether that prison inmate is indeed a future **Joker** if at all they plan to create a new trilogy honoring what _Heath Ledger_ and _Joaquin Phoenix_ have successfully portrayed.
 

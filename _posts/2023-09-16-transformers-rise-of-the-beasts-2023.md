@@ -19,7 +19,7 @@ coverImage: "/images/transformersposter.jpeg"
 
 Amidst all the recent controversies about aliens resurfacing in the news media, you tend to wonder whether all this is a propaganda or a diversion. Mexican journalist and long-time UFO enthusiast _Jaime Maussan_ claimed that alien bodies were discovered in **Peru** and he showcased them in a hearing. The question that needs to be asked as to how these bodies were transferred to **Mexico** without the permission of the **Peru** government. Whatever it may be, it still works in promoting alien themed movies and spreads doubts and debates all around. Coincidentally, the story of _**Transformers: Rise of the Beasts**_ happens to surround the area of **Peru**.
 
-https://www.youtube.com/watch?v=wv4FSoRfkf8
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wv4FSoRfkf8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 While the movie _**Transformers**_ is not a recent phenomena, it surely was made as a diversion tactic. _Don Murphy_, creator of the **_Transformers_** movie franchise chose to release the movie over _**G. I. Joe’s**_ adaptation during the time when the US invaded Iraq over some false propaganda about weapons of mass destruction. Though both **_G. I. Joe_** and _**Transformers**_ are part of _**Hasbro’s**_ figurines that we all have played with in our childhood, the story of _**G. I. Joe**_ was based on the American military science fiction action storyline. Much like the reason why the US invaded Iraq. Don’s natural choice was to have a diversion and release _**Transformers**_ instead showcasing aliens.
 

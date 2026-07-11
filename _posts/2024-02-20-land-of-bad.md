@@ -18,7 +18,7 @@ coverImage: "/images/russel-crowe.png"
 
 The year 2024 started with a series of Hollywood flops. At least, I had hopes from the movie, _**The Bricklayer**_ starring _Aaron Eckhart_. But, when I sat down to watch it, I was disappointed that a decent storyline can be trashed with a poor script, acting, and direction. Frankly, I wasn’t expecting much from the movie _**Land of Bad**_ aside from _Russell Crowe_. Surprisingly, this movie held its bar high throughout the story with good acting, script, and direction. It’s a typical _William Eubank_ movie where the script doesn’t disappoint and actors are allowed to do their job.
 
-https://www.youtube.com/watch?v=h2TeLncML0M
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h2TeLncML0M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 The movie _**Land of Bad**_ has the same high tension that we experienced in the movie _**13 Hours: The Secret Soldiers of Benghazi**_ and has the same thrill of the 2001 _John Moore’s_ movie _**Behind Enemy Lines**_. The reason why I’m bringing these two movies for comparison is because Hollywood in the last decade seems to be losing the grip of reality with comic book action hero movies. This movie is a decent reminder that action can be repacked the same way they used to do a decade ago and we don’t need to get used to the dumb actions portrayed in a comic book adaptation.
 

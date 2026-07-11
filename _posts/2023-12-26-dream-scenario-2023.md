@@ -21,7 +21,7 @@ coverImage: "/images/dream-scenario-nicolas-cage.jpeg"
 
 How many of us in the current social set up yearn for social validation and acceptance in the real or online world? The number would be huge and could encompass almost the entire human race in one way or another. The entire business of social media has pushed us to a limit where we have willingly productized ourselves for the market and later become a medium to sell products of other people. In such a world, if you get viral (unfortunately the word that we don’t use for disease these days) for a negative scenario, it could be catastrophic. The movie _**Dream Scenario**_ banks on this very idea and explores what may or may not be true.
 
-https://www.youtube.com/watch?v=K2hawNMYHkY
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K2hawNMYHkY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 The story of _Paul Matthews_ (played by _Nicolas Cage_) is based on such a hypothetical scenario that it almost appears to be a bad dream hence the movie title seems to be somewhat justified. The old professor, _Paul Matthews_, through all his years dreams of getting recognized as a researcher and getting some recognition for his hard earned life. That very thought of getting attention becomes a catastrophe for him. People around the world start dreaming about him in a weird way. Almost, in all those dreams, he appears to be a passing by character who is barely actively involved with other people’s dream scenario. Reluctantly enough, he starts to accept the viral nature of his social acceptance and begins to productise himself. 
 

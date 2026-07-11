@@ -21,7 +21,7 @@ coverImage: "/images/the-day-of-the-jackal-105.jpg"
 
 Of all the spy-thrillers I have watched, I seem to have zeroed on my favorite, _The Spy_ starring  _Sacha Baron Cohen_ playing the character of Mossad’s top spy _Eli Cohen_. I never thought I would have to realign my thriller beliefs and include an assassin thriller into the world of spies. The British adaptation of the novel **_The Day of the Jackal_** by _Frederick Forsyth_ surpasses my expectations at each and every aspect of the film making. The constant movement of the central character beyond borders while keeping up with his get ups and charades makes this assassin thriller a perfect choice for a spy thriller as well.
 
-https://www.youtube.com/watch?v=hrDnGCTa\_Mc
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hrDnGCTaMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 The assassin thrillers are never on my radar as almost all of them fail when it comes to the pacing of the scenes. They either tend to focus only on action or drive a flawed storyline with hurried climax. While this is true for most assassin thrillers, it is also the main reason why I don’t like most of the spy thrillers. The human angle that justifies the characterization is generally missing. But, that too shouldn’t become a hurdle in storytelling. **_Slow Horses_** on Apple TV and **_Black Doves_** on Netflix didn’t impress me mainly because of that. They just focussed too much on the human angle. The perfect balance is something that the script demands.
 

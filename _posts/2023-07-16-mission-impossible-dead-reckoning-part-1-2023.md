@@ -15,7 +15,7 @@ coverImage: "/images/mi7.jpg"
 
 **_Mission Impossible_** has been the longest standing franchise that survived all ups and downs. In the midst of Hollywood strike, **_Dead Reckoning_** has still managed to survive big screens and made good profit. Now, how much lobbying played a role in its success, is something out of scope for us to discuss.
 
-https://dai.ly/x9buixi
+<iframe frameborder="0" width="100%" height="100%" src="https://www.dailymotion.com/embed/video/x9buixi" allowfullscreen allow="autoplay"></iframe>
 
 But, when it comes to _Tom Cruise_, all the hype around it is generally true. I am too guilty of watching the movie for only stunt sequences in real time. And that has been my motivating factor to watch _**Mission Impossible**_ all throughout. Especially, after seeing _Tom_ climbing a cliff in _**Mission Impossible 2**_ which was perhaps the best of the lot. 
 
