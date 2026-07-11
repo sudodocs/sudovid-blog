@@ -1,9 +1,7 @@
 ---
 title: "The Recruit: Season 2 (TV Series 2025)"
 date: 2025-01-31
-categories: 
-  - "cinema"
-  - "home"
+categories: [Action, Spy, Thriller, Series]
 tags: 
   - "2025"
   - "aarti-mann"

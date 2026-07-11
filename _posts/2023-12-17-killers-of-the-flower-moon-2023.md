@@ -1,8 +1,7 @@
 ---
 title: "Killers of the Flower Moon: (2023)"
 date: 2023-12-17
-categories: 
-  - "cinema"
+categories: [Adaptation, Drama]
 tags: 
   - "2023"
   - "america"

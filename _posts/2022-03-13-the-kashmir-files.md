@@ -1,8 +1,7 @@
 ---
 title: "The Kashmir Files: (2022)"
 date: 2022-03-13
-categories: 
-  - "cinema"
+categories: [Drama, Bollywood, Adaptation]
 tags: 
   - "haider"
   - "kashmir"

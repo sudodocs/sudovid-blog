@@ -1,8 +1,7 @@
 ---
 title: "Daredevil: Season 3 (TV series 2018)"
 date: 2018-11-09
-categories: 
-  - "cinema"
+categories: [Action, Comics, Series]
 tags: 
   - "benjamin-poindexter"
   - "bulls-eye"

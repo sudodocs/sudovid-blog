@@ -1,8 +1,7 @@
 ---
 title: "M.S. Dhoni - The Untold Story: (2016)"
 date: 2016-09-30
-categories: 
-  - "cinema"
+categories: [Drama, Bollywood, Biography]
 tags: 
   - "2016"
   - "disha-patani"

@@ -1,8 +1,7 @@
 ---
 title: "The Day of the Jackal: (2024)"
 date: 2024-12-14
-categories: 
-  - "cinema"
+categories: [Action, Spy, Thriller, Series]
 tags: 
   - "belarus"
   - "british"

@@ -1,8 +1,7 @@
 ---
 title: "Zack Snyder's Justice League: (2021)"
 date: 2021-03-20
-categories: 
-  - "cinema"
+categories: [Action, Comics]
 tags: 
   - "cyborg"
   - "dark-multiverse"

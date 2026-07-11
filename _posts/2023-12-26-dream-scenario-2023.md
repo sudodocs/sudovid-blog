@@ -1,8 +1,7 @@
 ---
 title: "Dream Scenario: (2023)"
 date: 2023-12-26
-categories: 
-  - "cinema"
+categories: [Drama, Mystery]
 tags: 
   - "2023"
   - "comedy"

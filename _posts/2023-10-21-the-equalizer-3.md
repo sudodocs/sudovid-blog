@@ -1,8 +1,7 @@
 ---
 title: "The Equalizer 3: (2023)"
 date: 2023-10-21
-categories: 
-  - "cinema"
+categories: [Action, Thriller]
 tags: 
   - "2023"
   - "antoinefuqua"

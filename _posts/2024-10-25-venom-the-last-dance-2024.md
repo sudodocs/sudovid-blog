@@ -1,8 +1,7 @@
 ---
 title: "Venom: The Last Dance (2024)"
 date: 2024-10-25
-categories: 
-  - "cinema"
+categories: [Action, Thriller, Sci-Fi, Comics]
 tags: 
   - "2024"
   - "agony"

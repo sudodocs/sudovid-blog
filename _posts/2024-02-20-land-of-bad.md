@@ -1,8 +1,7 @@
 ---
 title: "Land of Bad: (2024)"
 date: 2024-02-20
-categories: 
-  - "cinema"
+categories: [Action, Thriller, Drama]
 tags: 
   - "13hoursthesecretsoldiersofbenghazi"
   - "behindenemylines"

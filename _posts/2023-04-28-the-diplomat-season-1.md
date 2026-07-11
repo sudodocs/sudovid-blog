@@ -1,8 +1,7 @@
 ---
 title: "The Diplomat: Season 1 (TV series 2023)"
 date: 2023-04-28
-categories: 
-  - "cinema"
+categories: [Drama, Series]
 tags: 
   - "britain"
   - "cia"

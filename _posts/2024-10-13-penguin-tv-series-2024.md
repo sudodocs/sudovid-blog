@@ -1,8 +1,7 @@
 ---
 title: "Penguin: (TV series 2024)"
 date: 2024-10-13
-categories: 
-  - "cinema"
+categories: [Action, Comics, Series]
 tags: 
   - "batman"
   - "bruno-heller"

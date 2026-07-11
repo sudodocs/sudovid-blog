@@ -1,8 +1,7 @@
 ---
 title: "Mission Impossible: Dead Reckoning Part 1 (2023)"
 date: 2023-07-16
-categories: 
-  - "cinema"
+categories: [Action]
 tags: 
   - "christopher-mcquarrie"
   - "deadreckoning"

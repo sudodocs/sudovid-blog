@@ -1,8 +1,7 @@
 ---
 title: "The Space Between Us: (2017)"
 date: 2017-04-15
-categories: 
-  - "cinema"
+categories: [Sci-Fi, Drama]
 tags: 
   - "2017"
   - "asa-butterfield"

@@ -1,8 +1,7 @@
 ---
 title: "Transformers: Rise of the Beasts (2023)"
 date: 2023-09-16
-categories: 
-  - "cinema"
+categories: [Action, Comics]
 tags: 
   - "anthonyramos"
   - "crossover"

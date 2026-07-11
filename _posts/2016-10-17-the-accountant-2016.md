@@ -1,8 +1,7 @@
 ---
 title: "The Accountant: (2016)"
 date: 2016-10-17
-categories: 
-  - "cinema"
+categories: [Action, Thriller]
 tags: 
   - "2016"
   - "anna-kendrick"

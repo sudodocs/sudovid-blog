@@ -1,8 +1,7 @@
 ---
 title: "The Diplomat: Season 2 (2024)"
 date: 2024-11-19
-categories: 
-  - "cinema"
+categories: [Drama, Comedy, Series]
 tags: 
   - "allisonjanney"
   - "british"

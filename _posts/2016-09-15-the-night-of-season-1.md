@@ -1,8 +1,7 @@
 ---
 title: "The Night of: Season 1 (TV series 2016)"
 date: 2016-09-15
-categories: 
-  - "cinema"
+categories: [Suspense, Thriller, Series]
 tags: 
   - "2016"
   - "bill-camp"

@@ -1,8 +1,7 @@
 ---
 title: "Joker: Folie a Deux (2024)"
 date: 2024-11-03
-categories: 
-  - "cinema"
+categories: [Drama, Comics]
 tags: 
   - "2024"
   - "christophernolan"

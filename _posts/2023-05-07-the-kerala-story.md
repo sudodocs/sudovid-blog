@@ -1,8 +1,7 @@
 ---
 title: "The Kerala Story: (2023)"
 date: 2023-05-07
-categories: 
-  - "cinema"
+categories: [Drama, Bollywood]
 tags: 
   - "32000"
   - "adah-sharma"

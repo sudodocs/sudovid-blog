@@ -1,8 +1,7 @@
 ---
 title: "Iron Fist: Season 2 (TV Series 2018)"
 date: 2018-09-16
-categories: 
-  - "cinema"
+categories: [Action, Comics, Series]
 tags: 
   - "bloody-mary"
   - "daredevil"

@@ -1,8 +1,7 @@
 ---
 title: "The Recruit: Season 1 (TV series 2022)"
 date: 2022-12-18
-categories: 
-  - "cinema"
+categories: [Action, Spy, Series]
 tags: 
   - "belarus"
   - "cia"

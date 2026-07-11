@@ -1,8 +1,7 @@
 ---
 title: "Spider-Man: Across The Spider Verse (2023)"
 date: 2023-06-17
-categories: 
-  - "cinema"
+categories: [Action, Comics]
 tags: 
   - "acrossthespiderverse"
   - "andrewgarfield"

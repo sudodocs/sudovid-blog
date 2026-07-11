@@ -1,8 +1,7 @@
 ---
 title: "Deepwater Horizon: (2016)"
 date: 2016-12-23
-categories: 
-  - "cinema"
+categories: [Drama, Thriller]
 tags: 
   - "2016"
   - "20th-april-2010"

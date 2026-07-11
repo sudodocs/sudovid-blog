@@ -1,8 +1,7 @@
 ---
 title: "Farzi: Season 1 (TV series 2023)"
 date: 2023-02-12
-categories: 
-  - "cinema"
+categories: [Drama, Bollywood, Series]
 tags: 
   - "amol-palekar"
   - "kay-kay-menon"

@@ -1,9 +1,7 @@
 ---
 title: "The Agency: Season 1 (TV Series 2024)"
 date: 2025-01-25
-categories: 
-  - "cinema"
-  - "home"
+categories: [Thriller, Spy]
 tags: 
   - "2014"
   - "africa"

@@ -1,8 +1,7 @@
 ---
 title: "The Crowded Room: (TV Miniseries 2023)"
 date: 2023-06-01
-categories: 
-  - "cinema"
+categories: [Drama, Series]
 tags: 
   - "akivagoldsman"
   - "amandaseyfried"

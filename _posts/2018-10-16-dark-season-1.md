@@ -1,8 +1,7 @@
 ---
 title: "Dark: Season 1 (TV Series 2017-20)"
 date: 2018-10-16
-categories: 
-  - "cinema"
+categories: [Mystery, Sci-Fi, Series]
 tags: 
   - "back-to-the-future"
   - "baran-bo-odar"

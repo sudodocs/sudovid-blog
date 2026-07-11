@@ -1,8 +1,7 @@
 ---
 title: "Spider-Man: Homecoming (2017)"
 date: 2017-07-11
-categories: 
-  - "cinema"
+categories: [Drama, Action, Comics]
 tags: 
   - "adrian-toomes"
   - "aunt-may"

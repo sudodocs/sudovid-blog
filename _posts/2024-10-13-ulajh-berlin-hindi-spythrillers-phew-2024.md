@@ -1,8 +1,7 @@
 ---
 title: "Ulajh &amp; Berlin: Hindi Spythrillers! Phew! (2024)"
 date: 2024-10-13
-categories: 
-  - "cinema"
+categories: [Drama, Spy, Bollywood]
 tags: 
   - "apaarshakti-khurana"
   - "baby"
