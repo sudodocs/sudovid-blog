@@ -1,5 +1,5 @@
-title: "Sudovid Blog"
-description: "My personal blog and articles."
-url: "https://sudodocs-admin.github.io"
-baseurl: "/sudovid-blog"
+title: "SudoVid Times"
+description: "Movies | Series | Insights!"
+url: "https://blog.sudovid.com"
+baseurl: ""
 permalink: /:year/:month/:day/:title/
