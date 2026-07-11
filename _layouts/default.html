@@ -19,7 +19,8 @@
     <div class="newspaper-date">{{ site.time | date: "%A, %B %d, %Y" }}</div>
     <nav class="newspaper-categories">
         {% for category in site.categories %}
-            <a href="{{ '/categories.html#' | append: category[0] | relative_url }}">{{ category[0] }}</a>
+            <!-- Apply relative_url first, then add the anchor tag using slugify -->
+            <a href="{{ '/categories.html' | relative_url }}#{{ category[0] | slugify }}">{{ category[0] }}</a>
         {% endfor %}
     </nav>
     </header>
